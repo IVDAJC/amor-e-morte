@@ -1,0 +1,27 @@
+body {
+    background-color:rgb(235, 225, 221);
+    color: aliceblue;
+    font-family: "Playpen Sans", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 700px;
+    margin: 0;
+}
+button{
+    background-color: chartreuse;
+    color: brown;
+    font-family: "Playpen Sans", cursive;
+}
+.passo {
+    display: none;
+}
+.passo.ativo {
+    display: block;
+}main{
+    max-width: 90%;
+    text-align: center;
+}
+ img {
+
+ }
